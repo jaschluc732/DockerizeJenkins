@@ -1,7 +1,7 @@
 {
   "name": "microservices-nodejs-handlebars-frontend",
   "version": "1.0.0",
-  "description": "A Front-end awesome service with node.js and handlebars for succinct microservice example",
+  "description": "A Front-end awesome sourcecode service with node.js and handlebars for succinct microservice example",
   "main": "server.js",
   "scripts": {
     "start": "node ./src/server.js",

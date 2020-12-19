@@ -12,7 +12,7 @@
 	<artifactId>calculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calculator</name>
-	<description>Demo project for really cool Spring Boot</description>
+	<description>Demo project for really groovy Spring Boot</description>
 
 	<properties>
 		<java.version>11</java.version>
